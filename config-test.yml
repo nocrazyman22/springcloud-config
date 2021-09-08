@@ -1,6 +1,4 @@
-﻿server:
-  port: 9527
-
+version: 2.0
 spring:
   application:
     name: cloud-gateway-gateway9527
